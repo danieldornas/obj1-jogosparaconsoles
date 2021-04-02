@@ -5,6 +5,7 @@ public clas ArqB {
 	}
 	
 	public void methodY(){
+		ArqA.open();
 	}
 
 }
