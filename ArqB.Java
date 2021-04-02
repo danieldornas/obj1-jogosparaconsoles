@@ -1,7 +1,10 @@
 public clas ArqB {
 	ArqB arqB;
 
-	public void methodx(){
+	public void methodX(){
+	}
+	
+	public void methodY(){
 	}
 
 }
